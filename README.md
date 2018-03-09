@@ -1,0 +1,1 @@
+# GoLangのTest
